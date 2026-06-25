@@ -49,7 +49,7 @@ Designed with advanced UI/UX considerations, this application includes:
 - **Core Framework**: [Streamlit](https://streamlit.io/) (v1.20.0+)
 - **Data Wrangling**: [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/)
 - **Interactive Charts**: [Plotly Express & Plotly Graph Objects](https://plotly.com/python/)
-- **Machine Learning**: [scikit-learn](https://scikit-learn.org/), [XGBoost](https://xgboost.readthedocs.io/)
+- **Machine Learning**: [scikit-learn](https://scikit-learn.org/), [XGBoost](https://xgboost.readthedocs.io/), [Adaboost]
 - **Model Storage**: Pickle serialized pipelines
 
 ---
@@ -95,10 +95,4 @@ The models evaluate these attributes to calculate survival probabilities.
 
 ---
 
-## 📜 License
-
-Distributed under the MIT License. See [LICENSE](https://github.com/Yogesh-DataScientist/Healthcare-Survival-Prediction-System/blob/main/LICENSE) for more information.
-
----
-
-**Developed with ❤️ by [Yogesh-DataScientist](https://github.com/Yogesh-DataScientist)**
+**Developed by [Yogesh-DataScientist](https://github.com/Yogesh-DataScientist)**
